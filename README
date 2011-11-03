@@ -1,0 +1,4 @@
+This is a set of js classes based on mootools framework designed to help creating a finite state machine in java script.
+The transitions between these states could be mouse or keybaord driven
+We will add some significative samples to help debug and enhance these classes.
+
